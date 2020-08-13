@@ -14,6 +14,8 @@
 * * *
 ### Personal projects
 
+<dl>
 <dt>Coding goes here</dt>
 <dt>Design goes here</dt>
 <dt>Other goes here</dt>
+</dl>
