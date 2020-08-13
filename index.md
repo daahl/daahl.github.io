@@ -9,9 +9,3 @@
 * automation
 * sustainable energy
 * medtech
-
-### Hobbies
-* rock climbing
-* bird photography
-* binging podcasts
-* bread baking
