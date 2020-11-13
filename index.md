@@ -15,7 +15,13 @@
 ### Personal projects
 
 <dl>
-<dt>Coding goes here</dt>
-<dt>Design goes here</dt>
-<dt>Other goes here</dt>
+<dt>Climate chamber ...TBA</dt>
+<dt>RobotSM -21 ...TBA</dt>
+<dt>Class discord bot ...TBA</dt>
+</dl>
+
+* * *
+### Notable courses
+<dl>
+<dt>Project management, 7.5hp, summer course -20</dt>
 </dl>
