@@ -18,7 +18,8 @@
 <dl>
 <dt><a href="https://github.com/daahl/slideboard">Slideboard</a></dt>
 <dt><a href="https://github.com/daahl/micromouse_v1">Micromouse v1</a></dt>
-<dt><a href="https://github.com/daahl/slideboard">OneKey keyboard</a></dt>
+<dt><a href="https://github.com/daahl/onekey">OneKey keyboard</a></dt>
+<dt><a href="https://github.com/daahl/retrocheater">Retrocheater</a></dt>
 </dl>
 
 * * *
