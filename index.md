@@ -17,8 +17,8 @@
 
 <dl>
 <dt><a href="https://github.com/daahl/slideboard">Slideboard</a></dt>
-<dt>Micromouse v2</dt>
-<dt>OneKey keyboard</dt>
+<dt><a href="https://github.com/daahl/micromouse_v1">Micromouse v1</a></dt>
+<dt><a href="https://github.com/daahl/slideboard">OneKey keyboard</a></dt>
 </dl>
 
 * * *
