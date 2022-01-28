@@ -1,27 +1,31 @@
-### 2nd year engineering student at Chalmers University
+### 3rd year engineering student at Chalmers University of Technology
 
 * * *
 
 ### Things I'd like to learn right now:
-* how to use github
-* coding in python
-* calculus 3
+* OpenCV and machine vision
+* Handling big data in python
+* Machine learning
 
-### Sectors I'd like to work in:
-* sustainable energy
-* medtech
+### Fields that interests me:
+* Sustainable energy
+* Bioengineering
+* Data visualisation
 
 * * *
 ### Personal projects
 
 <dl>
-<dt>Climate chamber ...TBA</dt>
-<dt>RobotSM -21 ...TBA</dt>
-<dt>Class discord bot ...TBA</dt>
+<dt>Slideboard v1</dt>
+<dt>Micromouse v2</dt>
+<dt>OneKey keyboard</dt>
 </dl>
 
 * * *
 ### Notable courses
 <dl>
-<dt>Project management, 7.5hp, summer course -20</dt>
+<dt>Project management, 7.5 credits</dt>
+<dt>System construction, 7.5 credits</dt>
+<dt>System and signals, 7.5 credits</dt>
+<dt>Electrical circuits, 7.5 credits</dt>
 </dl>
