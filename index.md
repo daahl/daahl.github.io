@@ -16,7 +16,7 @@
 ### Personal projects
 
 <dl>
-<dt>Slideboard v1</dt>
+<dt>[Slideboard v1](https://github.com/daahl/slideboard)</dt>
 <dt>Micromouse v2</dt>
 <dt>OneKey keyboard</dt>
 </dl>
